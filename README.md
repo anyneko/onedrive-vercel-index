@@ -30,7 +30,7 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 Please go to our [discussion forum](https://github.com/spencerwooo/onedrive-vercel-index/discussions) for general questions and FAQs, **issues are for bug reports and bug reports only.** Feature requests may or may not be ignored, as [I (@spencerwooo)](https://spencerwoo.com) am the only one maintaining the project, so **I only prioritise features that I use.**
 
-*If you happen to like this project, please give it a star!* :3
+*If you happen to like this project, please give it a star!*
 
 *If you really, really like this project, please send money! -> [Sponsors 🤑 and donations 💰](https://ovi.swo.moe/sponsor/ways)*
 
